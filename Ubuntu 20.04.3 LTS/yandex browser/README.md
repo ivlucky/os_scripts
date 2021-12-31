@@ -1,0 +1,1 @@
+Commands for `install.sh` was copied from [here](https://www.linuxbabe.com/browser/yandex-browser-debian-ubuntu-fedora-opensuse-arch)
