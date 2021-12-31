@@ -1,0 +1,1 @@
+This is folder for bash scripts in ubuntu
