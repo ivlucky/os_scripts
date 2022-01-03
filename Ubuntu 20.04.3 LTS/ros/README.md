@@ -1,0 +1,2 @@
+Commands for `full_install.sh` was copied from [here](http://wiki.ros.org/action/fullsearch/noetic/Installation/Ubuntu?action=fullsearch&context=180&value=linkto%3A%22noetic%2FInstallation%2FUbuntu%22)
+Full means that [Gazebo](https://www.gazebosim.org/) will be installed
