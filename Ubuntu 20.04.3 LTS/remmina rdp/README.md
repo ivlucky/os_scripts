@@ -1,0 +1,1 @@
+Commands for `install.sh` was copied from [here](https://gitlab.com/Remmina/Remmina/-/wikis/home#ubuntu)
