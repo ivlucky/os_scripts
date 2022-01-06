@@ -1,0 +1,1 @@
+Commands for `install.sh` was copied from book from [this](https://github.com/qboticslabs/learning_robotics_2nd_ed) repo
