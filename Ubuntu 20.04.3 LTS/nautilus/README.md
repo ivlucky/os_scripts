@@ -1,0 +1,1 @@
+Commands for `install.sh` was copied from book from [this](https://onstartup.ru/gnome/nautilus/) link
